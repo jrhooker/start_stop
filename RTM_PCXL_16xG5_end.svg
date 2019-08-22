@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="77.049171"
-   height="11.612491"
+   width="82.475311"
+   height="11.673032"
    id="svg3175"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="RTM_PCXL_16xG5_end.svg">
@@ -33,10 +33,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="15.760835"
-     inkscape:cx="41.746603"
-     inkscape:cy="5.7427957"
-     inkscape:window-x="2510"
-     inkscape:window-y="7"
+     inkscape:cx="29.436152"
+     inkscape:cy="5.7730665"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3175" />
   <defs
@@ -54,18 +54,18 @@
     </rdf:RDF>
   </metadata>
   <path
-     d="M 5.96834,0.86472678 H 81.550045 V 10.747764 H 5.1497311 L 0.86469801,5.6110411 Z"
+     d="M 5.9986059,0.89499748 H 81.580311 V 10.778035 H 5.179997 L 0.89496393,5.6413118 Z"
      id="path3045-6-576"
      style="fill:#df9a33;fill-opacity:1;stroke:#000000;stroke-width:1.78999496px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
      inkscape:connector-curvature="0" />
   <text
-     x="4.5401711"
-     y="-8.335556"
+     x="4.570437"
+     y="-8.3052855"
      id="text2985-13-1"
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
-       x="4.5401711"
-       y="8.9844513"
+       x="4.570437"
+       y="9.0147219"
        id="tspan2989-2-92"
        style="font-size:10px;fill:#fafafa;fill-opacity:1">RTM_PCXL_16xG5</tspan></text>
 </svg>
