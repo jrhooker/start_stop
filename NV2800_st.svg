@@ -13,7 +13,7 @@
    width="36.713703"
    height="11.354057"
    id="svg4260"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="NV2800_st.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -24,15 +24,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="997"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="6.4573165"
-     inkscape:cx="0.18219706"
+     inkscape:cx="-29.938674"
      inkscape:cy="-0.43426262"
-     inkscape:window-x="-8"
-     inkscape:window-y="-5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4260"
      fit-margin-top="0"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,8 +59,7 @@
      id="path3045-0-9"
      d="m 33.969074,0.48352131 -33.48555269,0 0,10.38701469 33.84820869,0 1.898456,-5.3986593 z" />
   <text
-     sodipodi:linespacing="125%"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
      xml:space="preserve"
      id="text2985-0-9"
      y="-8.3934069"
@@ -71,16 +70,16 @@
        style="font-size:10px"
        id="tspan2989-01-2"
        y="8.9266005"
-       x="1.4041758">NV2800</tspan></text>
+       x="1.4041758">NV2008</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Adobe Song Std L';-inkscape-font-specification:'Adobe Song Std L Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Adobe Song Std L';-inkscape-font-specification:'Adobe Song Std L Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="18.97073"
      y="8.3342276"
-     id="text4137"
-     sodipodi:linespacing="125%"><tspan
+     id="text4137"><tspan
        sodipodi:role="line"
        id="tspan4139"
        x="18.97073"
-       y="8.3342276" /></text>
+       y="11.782191"
+       style="font-size:32px;line-height:1.25" /></text>
 </svg>
